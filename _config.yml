@@ -14,7 +14,7 @@ description: "<h1>The Mad Milliner</h1>"
 
 
 
-baseurl: "http://jpanken.github.io"
+baseurl:
 url: "http://jpanken.github.io"
 twitter_username: 
 github_username:  jpanken
