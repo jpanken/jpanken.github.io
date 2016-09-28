@@ -1,13 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hemang Kumar</title>
-    <description>&lt;h3&gt;Hello, world!&lt;/h3&gt;&lt;h1&gt;DevJournal&lt;/h1&gt;&lt;h3&gt;Awesome Jekyll Theme for Developers!&lt;/h3&gt;Hope you like it!</description>
-    <link>http://hemangsk.github.io/</link>
-    <atom:link href="http://hemangsk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Sep 2016 20:53:32 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2016 20:53:32 +0000</lastBuildDate>
+    <title>Jaffle Pancake</title>
+    <description>&lt;h1&gt;The Mad Milliner&lt;/h1&gt;</description>
+    <link>http://jpanken.github.io/</link>
+    <atom:link href="http://jpanken.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Sep 2016 20:46:47 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 20:46:47 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Reflections on 161</title>
+        <description>&lt;p&gt;These are my reflections on 161.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://jpanken.github.io/161/2016/09/26/reflections-on-161.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/161/2016/09/26/reflections-on-161.html</guid>
+        
+        
+        <category>161</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Millinery!</title>
+        <description>&lt;p&gt;Millinery is really a form of sculpture.  First and foremost, it requires strong hands to withstand steam and manipulate stiff felt into different positions. It also requires some expensive tools.&lt;/p&gt;
+
+&lt;p&gt;Hat blocks are the main expense for any aspiring milliner.  It is the canvas upon which you build your hat.  Unfortunately, hat block making is a dying art and precious few people currently make hat blocks.  If this is your first hat, you should check eBay for a basic block (shaped like a head).  Once you are more established, you might invest more seriously in a modular set. That way you can mix crowns and brims for different looks.&lt;/p&gt;
+
+&lt;p&gt;Once you have a block, you need a felt body to block.  Felt bodies (also called hoods or cones) are unblocked hats made out of wool or fur felt.  They come in many different colors and textures.  Wool felt is the cheapest kind of body (under $15), but fur felts (around $30) are much easier to work with.  Fur felts come in a variety of finishes, but flat and velour are the most popular.  Velour (also called peachbloom) has a nap on one or both sides.  The nap gives it a richer texture.  Melusine, on the other hand, has a true furry texture not for the faint of heart.&lt;/p&gt;
+
+&lt;p&gt;Hats keep their shape with the help of stiffener, a glue-like spray that can dry quite hard if you aren't careful.  I mix up my own stiffener from hydrolac b5 powder, rubbing alcohol (try for at least 90% alcohol), and a bit of water.  It becomes a clear, slightly yellowish liquid and can be sprayed in light layers on the inside of the body.  Stiffener is also available pre-mixed, but who wants to ship a flammable liquid?  Powder is cheaper and easily shipped.&lt;/p&gt;
+
+&lt;p&gt;Steam is a key ingredient for blocking hats.  I use a travel garment steamer to keep my felt pliable and set the stiffener.  Steam burns are a real hazard so be careful!&lt;/p&gt;
+
+&lt;p&gt;Pins are necessary to keep the felt in place as it dries.  I use straight pins when I am hand-draping and blocking pins when I am anchoring the body.&lt;/p&gt;
+
+&lt;p&gt;Next time, we'll discuss the process of blocking a hat.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Sep 2016 16:31:43 +0000</pubDate>
+        <link>http://jpanken.github.io/millinery/2016/09/25/welcome.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/millinery/2016/09/25/welcome.html</guid>
+        
+        
+        <category>millinery</category>
+        
+      </item>
     
       <item>
         <title>Or maybe give them a read :)</title>
@@ -27,8 +65,8 @@
 
 </description>
         <pubDate>Thu, 12 May 2016 16:31:43 +0000</pubDate>
-        <link>http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll3.html</link>
-        <guid isPermaLink="true">http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll3.html</guid>
+        <link>http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll3.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll3.html</guid>
         
         
         <category>jekyll</category>
@@ -55,8 +93,8 @@
 
 </description>
         <pubDate>Thu, 12 May 2016 16:31:43 +0000</pubDate>
-        <link>http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll2.html</link>
-        <guid isPermaLink="true">http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll2.html</guid>
+        <link>http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll2.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll2.html</guid>
         
         
         <category>jekyll</category>
@@ -83,8 +121,8 @@
 
 </description>
         <pubDate>Thu, 12 May 2016 16:31:43 +0000</pubDate>
-        <link>http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll11.html</link>
-        <guid isPermaLink="true">http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll11.html</guid>
+        <link>http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll11.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll11.html</guid>
         
         
         <category>jekyll</category>
@@ -111,8 +149,8 @@
 
 </description>
         <pubDate>Thu, 12 May 2016 16:31:43 +0000</pubDate>
-        <link>http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll10.html</link>
-        <guid isPermaLink="true">http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll10.html</guid>
+        <link>http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll10.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll10.html</guid>
         
         
         <category>jekyll</category>
@@ -139,8 +177,8 @@
 
 </description>
         <pubDate>Thu, 12 May 2016 16:31:43 +0000</pubDate>
-        <link>http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll1.html</link>
-        <guid isPermaLink="true">http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll1.html</guid>
+        <link>http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll1.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll1.html</guid>
         
         
         <category>jekyll</category>
@@ -167,36 +205,8 @@
 
 </description>
         <pubDate>Thu, 12 May 2016 16:31:43 +0000</pubDate>
-        <link>http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll0.html</link>
-        <guid isPermaLink="true">http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll0.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>This is first post!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 12 May 2016 16:31:43 +0000</pubDate>
-        <link>http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://hemangsk.github.io/jekyll/update/2016/05/12/welcome-to-jekyll.html</guid>
+        <link>http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll0.html</link>
+        <guid isPermaLink="true">http://jpanken.github.io/jekyll/update/2016/05/12/welcome-to-jekyll0.html</guid>
         
         
         <category>jekyll</category>
