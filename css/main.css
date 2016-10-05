@@ -42,7 +42,7 @@ body {
 
 .jumbotron {
   background-color: #252839;
-  background-image: url(images/banner1.jpg) !important; }
+  background-image: url(/images/banner1.jpg); }
 
 a {
   color: #FFFFFF;
