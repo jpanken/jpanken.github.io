@@ -41,7 +41,7 @@ body {
   padding-bottom: 5em; }
 
 .jumbotron {
-  background: #252839 !important; }
+  background-image: url(images/banner1.jpg) !important; }
 
 a {
   color: #FFFFFF;
