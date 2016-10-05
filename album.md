@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Album
-permalink: /about/
+permalink: /album/
 ---
 <div class="man-title">
   TAKE A LOOK AT MY HATS
