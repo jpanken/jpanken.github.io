@@ -1,14 +1,13 @@
 ---
 layout: page
-title: About
+title: Album
 permalink: /about/
 ---
 <div class="man-title">
-  Who is Jaffle Pancake?
+  TAKE A LOOK AT MY HATS
 </div>
 <p>  <div class="manual-content">
 
-First of all, my name isn't Jaffle Pancake.  But it's pretty close.
 
 
   </div>
