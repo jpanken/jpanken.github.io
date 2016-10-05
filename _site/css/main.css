@@ -20,7 +20,8 @@
 
 body {
   background-color: #D5D5D5 !important;
-  font-family: "Fira Mono" !important;
+  background-image: url(/images/seigaiha.png);
+  font-family: "Georgia" !important;
   color: #6D7993 !important; }
 
 .page-stuff a {
@@ -40,7 +41,11 @@ body {
   padding-bottom: 5em; }
 
 .jumbotron {
-  background: #252839 !important; }
+  background-color: #252839;
+  background-image: url(/images/banner3.jpg); 
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 
 a {
   color: #FFFFFF;
@@ -68,7 +73,7 @@ a:hover {
   padding-bottom: 0.3em; }
 
 .post-title-main {
-  text-align: center;
+  text-align: left;
   color: #D5D5D5 !important; }
 
 .post-content {
@@ -95,7 +100,7 @@ code {
 
 .page-tagline {
   font-size: 20px;
-  text-align: center; }
+  text-align: left; }
 
 .download {
   padding: 2em;

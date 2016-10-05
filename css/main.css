@@ -42,7 +42,8 @@ body {
 
 .jumbotron {
   background-color: #252839;
-  background-image: url(/images/banner1.jpg); 
+  background-image: url(/images/banner3.jpg); 
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 
