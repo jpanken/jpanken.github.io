@@ -8,7 +8,7 @@ permalink: /about/
 </div>
 <p>  <div class="manual-content">
 
-First of all, my name isn't Jaffle Pancake.  But it's pretty close.
+My name isn't Jaffle Pancake.  But it's pretty close.  I've been making hats for two years and I'd like to share my experiences and experiments.
 
 
   </div>
