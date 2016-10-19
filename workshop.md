@@ -18,7 +18,7 @@ permalink: /workshop/
     
 <p> Afterwards, we learned how to solve a mathematical question found at <a href="https://projecteuler.net/problem=1/">Project Euler</a>  </p>
 
-<p> We used Java Compiler to solve the problem.  Unfortunately, my code may have had an extra parentheses so it did not work.  I tried to follow the speaker's exact code, but it was difficult because she moved so quickly.  I also could not follow the java code in general, it is like a different language after all.  Next time, I hope that they will explain why they are using the commands that they have chosen. </p>
+<p> We used Java Compiler to solve the problem.  Unfortunately, my code may have had an extra parentheses so it did not work.  I tried to follow the speaker's exact code, but it was difficult because she moved so quickly.  I also could not follow the java code in general, it is a different language after all.  Next time, I hope that they will explain why they are using the commands that they have chosen. </p>
 
 <p>  I now have a better understanding of how code works and the process of learning it at UNC.  All in all, it was a very enlightening evening.  </p>
 
