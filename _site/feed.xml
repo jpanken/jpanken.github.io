@@ -5,8 +5,8 @@
     <description>&lt;h1&gt;The Mad Milliner&lt;/h1&gt;</description>
     <link>http://jpanken.github.io/</link>
     <atom:link href="http://jpanken.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2016 23:31:53 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2016 23:31:53 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2016 02:33:27 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 02:33:27 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -15,8 +15,9 @@
 actors read.  It turns out that they are much more than that.  A script is a 
 “program or sequence of instructions that is interpreted or carried out by 
 another program rather than by the computer processor.” 
-(http://searchenterpriselinux.techtarget.com/definition/script)  They are an 
-easy way to automate tasks that take up time and energy that I just don’t have.&lt;/p&gt;
+&lt;a href=&quot;http://searchenterpriselinux.techtarget.com/definition/script&quot;&gt;source&lt;/a&gt;  They 
+are an easy way to automate tasks that take up time and energy that I just don’t 
+have.&lt;/p&gt;
 
 &lt;p&gt;I’ve already written my thesis, but if I had to do it again, I would consider 
 using a template and Pandoc. It would have been worth the effort to learn how to
@@ -24,6 +25,12 @@ write in markdown and convert it to multiple formats effortlessly.  As it was,
 it took me hours to format my dissertation (especially because it had a lot of 
 images).  If there were going to write another one (never again!), I’ll use the 
 techniques I learned in the class.&lt;/p&gt;
+
+&lt;p&gt;In class, I made a Mad Libs script.  It asked for different parts of speech and 
+assembled some pretty funny sentences.  After writing the Mad Libs, I still had 
+no idea how to write the commands to convert documents from markdown into 
+different formats.  I figured it out by looking at the class notes and using the
+various tutorials to find out how to designate variables.&lt;/p&gt;
 
 &lt;p&gt;My script is very basic, but it works.  I tried to figure out how to use a 
 template so I could have indented paragraphs, but I didn’t have a lot of time to
@@ -33,21 +40,15 @@ Unfortunately, I didn’t write down the code my professor used when he made a
 tried didn’t work.  There was probably some weird formatting issue with which 
 I’m not familiar.&lt;/p&gt;
 
-&lt;p&gt;In class, I made a Mad Libs script.  It asked for different parts of speech and 
-assembled some pretty funny sentences.  After writing the Mad Libs, I still had 
-no idea how to write the commands to convert documents from markdown into 
-different formats.  I figured it out by looking at the class notes and figuring
-out how to designate variables from the various tutorials.  It took me awhile to
-decide what document to convert, but turning it into markdown wasn’t very hard.
-In the end, I converted the beginning of Chapter Four of my dissertation into 
-markdown.&lt;/p&gt;
-
-&lt;p&gt;The excerpt discusses the work of American humanitarians in Turkey after the 
-Armenian Genocide, 1915-1917.  In the chapter as a whole, I address the creation
-of publicity photographs and other materials to raise money from the American 
-public.  I discuss the creation and use of a particular photograph featuring a 
-female physician, Dr. Mabel Elliott, and one of her starving patient.  You can 
-find my converted documents at the following links:&lt;/p&gt;
+&lt;p&gt;It took me awhile to decide what document to convert, but turning it into 
+markdown wasn’t very hard.  In the end, I converted the beginning of Chapter 
+Four of my dissertation into markdown. The excerpt discusses the work of 
+American humanitarians in Turkey after the Armenian Genocide, 1915-1917.  In the
+chapter as a whole, I address the creation of publicity photographs and other 
+materials to raise money from the American public.  I discuss the creation and 
+use of a particular photograph featuring a female physician, Dr. Mabel Elliott, 
+and her starving patient.  You can find my converted documents at the 
+following links:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/inls161/assignment-3-jpanken/blob/master/chapter4.docx&quot;&gt;Chapter 4 in DOCX&lt;/a&gt;&lt;/p&gt;
 
