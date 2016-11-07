@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   "Groupwork"
+title:   "Group Work"
 date:   2016-11-06
 categories:   "161"
 ---
