@@ -30,7 +30,7 @@ how it works.  I also tried reverse Googling the commands so I could see what I
 missed, but that didn't work.  I have a feeling that this will all catch up with
 me during the next assignment.
 
-[REPOSITORY FOR ASSIGNMENT]<https://github.com/gma96/braid-assignment-4>
+<https://github.com/gma96/braid-assignment-4>
 
 Me:
 
