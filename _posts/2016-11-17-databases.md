@@ -13,10 +13,11 @@ until the point where we just couldn't troubleshoot anymore.
 
 I served as the "Database Master" for our group project.  That meant
 that I created the database in mysql, using the 'CREATE TABLE' command.  I also
-figured out how to set the random ID number as the primary key and found the
-command to load all the data into the database. When I found that last command, 
-I was so relieved!  We never figured out if we could load the data into the 
-mysql database from Todd's or Grace's development environments.
+figured out how to set the random ID number as the primary key (but not that we 
+needed to do that) and found the command to load all the data into the database. 
+When I found that last command, I was so relieved!  We never figured out if we 
+could load the data into the mysql database from Todd's or Grace's development 
+environments.
 
 While I was Googling, I found a command that would have allowed me to add users
 to my mysql, but there was apparently an error in my syntax that I couldn't
