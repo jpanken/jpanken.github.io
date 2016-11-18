@@ -6,7 +6,7 @@ categories:   "161"
 ---
 
 This week's project was overwhelming.  I'm pretty sure we didn't do it 
-correctly,but we did our best.  Our biggest problem was that we took a really
+correctly, but we did our best.  Our biggest problem was that we took a really
 long time to figure out how to load data into the database so we weren't able to
 ask questions when we actually got stuck.  We ended up working outside of class
 until the point where we just couldn't troubleshoot anymore.
@@ -43,7 +43,7 @@ We wrote two scripts.  Everyone who isn't me runs braid0.sh. This script simply
 prompts the user to answer the questions and prints the answers to a .sql file. 
 I run braid2.sh, which prompts for the answers, inserts the data into the
 mysql database script, then dumps the data into braid0.sql.  Then, I do the 
-LOAD DATA command and it loads the data (ignoring any duplicate).  Not so 
+LOAD DATA command and it loads the data (ignoring any duplicates).  Not so 
 simple, but we have a database.
 
 
