@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop
-permalink: /workshop/
+title: Workshop 1
+permalink: /workshop1/
 ---
 <div class="man-title">
   Learn to Code with UNC's Women in Computer Science: September 28, 2016
