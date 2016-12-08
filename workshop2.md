@@ -43,8 +43,7 @@ the design process is like, but I could start with asking to print the same mold
 that the other milliner is having done.  I asked a few questions about copyright
 and it didn't seem like they were particularly worried about legal conflict.
 
-All in all, I left a little disappointed that we didn't get to make something.
-In fact, I felt a little like 3D printing is only for scientists and business
+All in all, I left a little disappointed that we didn't get to make something.  In fact, I felt a little like 3D printing is only for scientists and business
 students making prototypes.  However, it seems like this is a technology that
 is only getting more popular and sophisticated.  I'll probably take another 
 workshop to find out how I can get started with my hat mold.
